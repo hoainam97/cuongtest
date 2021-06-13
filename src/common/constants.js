@@ -1,6 +1,6 @@
 const isBrowser = () => typeof window !== 'undefined'
 
-const deriv_com_url = 'deriv.com'
+const deriv_com_url = 'cuongtestmaster.gatsbyjs.io'
 const deriv_me_url = 'deriv.me'
 
 const deriv_com_app_id = 16929
