@@ -12,11 +12,11 @@ import { default_server_url } from '../constants'
 export const domain_config = {
     production: [
         {
-            hostname: 'deriv.com',
+            hostname: 'cuongtestmaster.gatsbyjs.io',
             app_id: 11780,
         },
         {
-            hostname: 'deriv.me',
+            hostname: 'cuongtestmaster.gatsbyjs.io',
             app_id: 1411,
         },
     ],
